@@ -3,6 +3,7 @@ week13/cnn_lite/
 week13/oreilly_radar/
 week13/AP_News/
 week13/company_profiles/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
